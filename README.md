@@ -42,7 +42,7 @@ esto lo desarrollaré en una nota  al pie[^1]
 
 [^1]: que desarrollaré aquí
 
-también hay emojis. :+1: o :shipit: o :stuck_out_tongue_winking_eye:  o :thinking: por ejemplo
+también hay emojis. :+1: o :shipit: o :stuck_out_tongue_winking_eye:  o :thinking: o :cowboy_hat_face: o :fishsticks: por ejemplo
 
 > [!NOTE]
 > información util que quiero puntualizar.
